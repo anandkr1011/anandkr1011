@@ -10,6 +10,14 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"/>
 <br/>
 
+👯 I’m looking to collaborate on **Open source Project.**
+
+🚀 Love to talk about **Research and Innovation!**
+
+:muscle: Passionate about **`Competitive Coding`** <br>
+- Solved 300+ DSA Problems at **[LeetCode](https://leetcode.com/Anandsu1011/)**
+- 2 :star: in Problem solving at **[codechef](https://www.codechef.com/users/devil_0007)**
+
 <!--
 **anandkr1011/anandkr1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
