@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<h1 align='center'>
+  Hi there 👋 I'm Chetan 👨‍💻
+</h1>
 
 <p align='center'>
   A passionate frontend developer from India
