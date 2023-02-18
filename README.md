@@ -7,7 +7,7 @@
   A passionate frontend developer from India
 </p>
 
-<img src=["https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"](https://media.licdn.com/dms/image/C5616AQEnF0hyYk8TwQ/profile-displaybackgroundimage-shrink_350_1400/0/1602312023475?e=1681948800&v=beta&t=sKLmKTRi-xK7ZKcAVyIYEr9nPNZlDrtcxPG0N34RxTQ)/>
+<img src="https://media.licdn.com/dms/image/D4D16AQHBayzTuZistw/profile-displaybackgroundimage-shrink_350_1400/0/1672217467531?e=1677715200&v=beta&t=lghifr8zmg5hZzMe81ip81oZ3BTzUTT0ntCvyjeScpY" alt="Header"/>
 <br/>
 
 👯 I’m looking to collaborate on **Open source Project.**
